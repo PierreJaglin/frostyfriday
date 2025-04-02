@@ -16,6 +16,8 @@ Ce projet interne vise à centraliser mes résolution des challenges FrostyFrida
 - **Templates/** : Modèles pour standardiser les solutions
 
 ## Challenge Effectué:
+- Week 5 - Basic	UDFs : https://frostyfriday.org/blog/2022/07/15/week-5-basic/
+- Week 3 - Basic	Metadata Queries : https://frostyfriday.org/blog/2022/07/15/week-3-basic/
 - Week 1 – Basic	External Stages : https://frostyfriday.org/blog/2022/07/14/week-1/ 
 
 Bon challenge et amusez-vous bien avec FrostyFriday ! ❄️
