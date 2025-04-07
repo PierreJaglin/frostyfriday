@@ -16,6 +16,10 @@ Ce projet interne vise à centraliser mes résolution des challenges FrostyFrida
 - **Templates/** : Modèles pour standardiser les solutions
 
 ## Challenge Effectué:
+- Week 136 - Basic Spread Operator ** : https://frostyfriday.org/blog/2025/04/04/week-136-easy/
+- Week 122 - Basic 	Group by grouping sets : https://frostyfriday.org/blog/2024/12/06/week-122-easy/
+- Week 31 - Basic MIN_BY, MAX_BY : https://frostyfriday.org/blog/2023/01/27/week-31-basic/
+- Week 11 - Basic Tasks : https://frostyfriday.org/blog/2022/08/26/week-11-basic/
 - Week 5 - Basic	UDFs : https://frostyfriday.org/blog/2022/07/15/week-5-basic/
 - Week 3 - Basic	Metadata Queries : https://frostyfriday.org/blog/2022/07/15/week-3-basic/
 - Week 1 – Basic	External Stages : https://frostyfriday.org/blog/2022/07/14/week-1/ 
